@@ -1,2 +1,3 @@
 # ScroogeMcDog.sol
 Scrooge McDog contract
+The ScroogeMcDog ontract is simple but powerful writen in order to help Scrooge grow with great portion of the 10% buy/sell tax received going straight to marketing and further advanced of the scroogemc.dog platform and company. With 1million tokens available, the team/devs has never and will never purchase any tokens for our own benefits but we will frequently do buybacks and liquidity injections in order to keep the Scrooge in a healthy and stabilised position. Scrooge McDog was stealth launced at 12th of December 2021 with liquidity locked in Mudra.finance and we are excited to spread and grow our unique platform over the next few years. Join us on our journey to the top!
