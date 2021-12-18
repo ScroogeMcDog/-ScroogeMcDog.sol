@@ -1,2 +1,2 @@
-# -ScroogeMcDog.sol
+# ScroogeMcDog.sol
 Scrooge McDog contract
